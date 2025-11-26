@@ -101,13 +101,7 @@
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Graphic Era University, Dehradun; TCS-604; B.Tech 3rd year (CSE)",
-      "Dr. Babasaheb Ambedkar Technological University; BTCOL608; B.Tech 3rd year (CSE)",
-      "Thapar University; UCS520; B.Tech 3rd year (CSE)",
-      "Andhra University; CSE117; B.Tech 3rd year (CSE)",
-      "Anna University; 18SPC503; B.E. (CSE)",
-      "University of Kerala; CS1443; B.Sc. (CSE)",
-      "Uttarakhand Technical University; CS 502; B.Tech 3rd year (CSE)"
+      "This Lab is Aligned with the AICTE/UGC approved B.Tech 3rd year CSE and ECE course requirements."
     ]
   }
  
